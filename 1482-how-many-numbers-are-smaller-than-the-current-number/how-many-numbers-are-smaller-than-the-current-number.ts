@@ -10,4 +10,4 @@ function smallerNumbersThanCurrent(nums: number[]): number[] {
     }
     return nums.map( e=>map.get(e));
 
-}
+} 
